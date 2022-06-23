@@ -4,7 +4,7 @@
   "description": "",
   "keywords": [],
   "main": "src/index.js",
-  "homepage": "https://yanuha.github.io/todo/",
+  "homepage": "https://yanuha.github.io/todos/",
   "author": "Evgeniy Yanushko",
   "private": true,
   "dependencies": {
