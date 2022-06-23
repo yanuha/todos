@@ -4,6 +4,9 @@
   "description": "",
   "keywords": [],
   "main": "src/index.js",
+  "homepage": "https://yanuha.github.io/todo/",
+  "author": "Evgeniy Yanushko",
+  "private": true,
   "dependencies": {
     "@redux-devtools/extension": "3.2.2",
     "lodash": "^4.17.21",
